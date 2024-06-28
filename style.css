@@ -11,3 +11,11 @@ i{
     color: brown;
     text-shadow: 10px 10px 10px #000;
 }
+button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
